@@ -1,7 +1,7 @@
 #E-COMMERCE - SALES DATA ANALYSIS
 
 ## Project Overview
-E com
+E-commerce is one of the fastest-growing industries globally. By analyzing data from a virtual e-commerce platform, we can gain deeper insights into sales trends and the growth of this market. This analysis provides an objective view of various product aspects, identifying which categories are most attractive to online buyers. Additionally, it evaluates the effectiveness of promotions applied to each product and measures profitability, offering valuable insights to help the company make data-driven decisions for future sales seasons.
 ## Purpose
 * How can you write a SQL query to calculate the total sales of furniture products,
 grouped by each quarter of the year, and order the results chronologically? 
