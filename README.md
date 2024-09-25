@@ -1,7 +1,7 @@
-# SALES DATA ANALYSIS
+#E-COMMERCE - SALES DATA ANALYSIS
 
 ## Project Overview
-
+E com
 ## Purpose
 * How can you write a SQL query to calculate the total sales of furniture products,
 grouped by each quarter of the year, and order the results chronologically? 
