@@ -1,4 +1,6 @@
-#E-COMMERCE - SALES DATA ANALYSIS
+# E-COMMERCE - SALES DATA ANALYSIS
+
+![Screenshot 2024-09-26 110910](https://github.com/user-attachments/assets/0d27d76d-812e-4cf8-8946-fd906cebe492)
 
 ## Project Overview
 E-commerce is one of the fastest-growing industries globally. By analyzing data from a virtual e-commerce platform, we can gain deeper insights into sales trends and the growth of this market. This analysis provides an objective view of various product aspects, identifying which categories are most attractive to online buyers. Additionally, it evaluates the effectiveness of promotions applied to each product and measures profitability, offering valuable insights to help the company make data-driven decisions for future sales seasons.
